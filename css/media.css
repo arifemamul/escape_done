@@ -1,0 +1,310 @@
+ /*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	/*head line start*/
+    .mine {
+    	padding: 0;
+        margin-bottom: 0px;
+    }
+	.mine p {
+        font-size: 10px;
+        margin-bottom: 1px;
+    }
+	.mine h1 {
+        font-size: 12px;
+        margin-bottom: 2px;
+    }
+	.mine_btn {
+        font-size: 10px;
+        padding: 2px 4px;
+    }
+    /*head line end*/
+    /*identifies start*/
+    .identifies {
+        margin: 50px 0;
+    }
+    .img_cl{
+        margin-bottom: 10px;
+    }
+    .common_headline {
+        text-align: center;
+        font-size: 25px;
+    }
+    .common_bold {
+        text-align: center;
+        font-size: 25px;
+    }
+    .common_pragraph{
+        text-align: center;
+    }
+    .mine_bg {
+        padding: 50px 0;
+    }
+    /*identifies end*/
+    /*section start*/
+    .black{
+        margin: auto;
+    }
+    .common_heading{
+        text-align: center;
+        margin: 5px 0;
+    }
+    .mine_con {
+        margin: 0;
+    }
+    /*section end*/
+    /*awesome client start*/
+    .prosen{
+        margin-top: 15px;
+    }
+    .prosen_btw {
+        margin-top: 30px;
+    }
+    .user_icon {
+        width: 100px;
+        height: 100px;
+        margin: auto;
+    }
+    .text_head {
+        font-size: 18px;
+        padding: 10px 20px;
+        text-align: center;
+        margin-top: 5px;
+    }
+    /*awesome client end*/
+    /*team member start*/
+    .team {
+        margin: 30px 0 0px 0;
+    }
+    /*team member end*/
+    /*contact start*/
+    .md-lind{
+        text-align: center;
+    }
+    .mine_inpot {
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+    .mine_form{
+        margin-bottom: 12px;
+    }
+    .mine_are {
+        padding-bottom: 80px;
+    }
+    .mine_send{
+        font-size: 16px;
+        padding: 5px 0;
+    }
+    /*contact end*/
+}
+
+ /*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	/*head line start*/
+    .mine {
+        margin-bottom: 0px;
+    }
+	.mine p {
+        font-size: 16px;
+        margin-bottom: 5px;
+    }
+	.mine h1 {
+        font-size: 40px;
+        margin-bottom: 20px;
+    }
+	.mine_btn {
+        font-size: 16px;
+        padding: 7px 14px;
+    }
+    /*head line end*/
+    /*identifies start*/
+    .identifies {
+        margin: 70px 0;
+    }
+    .img_cl{
+        margin-bottom: 15px;
+    }
+    .common_headline {
+        text-align: center;
+        font-size: 35px;
+    }
+    .common_bold {
+        text-align: center;
+        font-size: 35px;
+    }
+    .common_pragraph{
+        text-align: center;
+    }
+    .mine_bg {
+        padding: 70px 0;
+    }
+    /*identifies end*/
+    /*section start*/
+    .black{
+        margin: auto;
+    }
+    .common_heading{
+        text-align: center;
+        margin: 10px 0;
+    }
+    .mine_con {
+        margin: 0;
+    }
+    /*section end*/
+    /*awesome client start*/
+    .prosen{
+        margin-top: 25px;
+    }
+    .prosen_btw {
+        margin-top: 45px;
+    }
+    .text_head {
+        font-size: 22px;
+        padding: 20px 30px;
+        text-align: center;
+        margin-top: 10px;
+    }
+    /*awesome client end*/
+    /*contact start*/
+    .md-lind{
+        text-align: center;
+    }
+    .mine_inpot {
+        padding-top: 18px;
+        padding-bottom: 18px;
+    }
+    .mine_form{
+        margin-bottom: 15px;
+    }
+    .mine_are {
+        padding-bottom: 90px;
+    }
+    .mine_send{
+        font-size: 16px;
+        padding: 5px 0;
+    }
+    /*contact end*/
+
+}
+
+ /*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	/*head line start*/
+	.mine {
+    	text-align: right;
+        margin-bottom: 15px;
+    }
+	.mine p {
+        font-size: 20px;
+        margin-bottom: 5px;
+    }
+	.mine h1 {
+        font-size: 50px;
+        margin-bottom: 30px;
+    }
+	.mine_btn {
+        font-size: 18px;
+        padding: 12px 16px;
+    }
+    /*head line end*/
+    /*identifies start*/
+    .identifies {
+        margin: 80px 0;
+    }
+    .common_headline {
+        font-size: 40px;
+    }
+    .common_bold {
+        font-size: 40px;
+    }
+    .mine_bg {
+        padding: 80px 0;
+    }
+    /*identifies end*/
+    /*awesome client start*/
+    .prosen{
+        margin-top: 30px;
+    }
+    .prosen_btw {
+        margin-top: 50px;
+    }
+    .text_head {
+        font-size: 23px;
+        padding: 25px 35px;
+        text-align: center;
+        margin-top: 15px;
+    }
+    /*awesome client end*/
+    /*market place start*/
+    .market_alt ul li a {
+         margin:auto; 
+    }
+    /*market place end*/
+    /*team member start*/
+    .team_pic{
+        width: 130px;
+        height: 130px;
+        border: 2px solid white;
+        border-radius: 50%;
+    }
+    .social_list ul li a i{
+        color: white;
+        width: 35px;
+        height: 35px;
+        padding: 8px 0;
+    }
+    /*team member end*/
+    /*contact start*/
+    .md-lind{
+        text-align: center;
+    }
+    .mine_inpot {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .mine_form{
+        margin-bottom: 20px;
+    }
+    .mine_are {
+        padding-bottom: 100px;
+    }
+    .mine_send{
+        padding: 5px 0;
+    }
+    /*contact end*/
+}
+
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	/*head line start*/
+	.mine {
+    	text-align: right;
+        margin-bottom: 15px;
+    }
+	.mine p {
+        margin-bottom: 5px;
+    }
+	.mine h1 {
+        margin-bottom: 30px;
+    }
+    /*head line end*/
+    /*identifies start*/
+    .identifies {
+        margin: 90px 0;
+    }
+    .common_headline {
+        font-size: 45px;
+    }
+    .common_bold {
+        font-size: 45px;
+    }
+    .mine_bg {
+        padding: 90px 0;
+    }
+    /*identifies end*/
+    /*contact start*/
+}
+
+ /*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+	
+}

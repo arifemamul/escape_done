@@ -1,0 +1,219 @@
+@font-face{
+	font-family: BrandonGrotesqe-Bold;
+	src:url(../font/BrandonGrotesqe-Bold.ttf);
+}
+@font-face {
+  font-family: BrandonLight;
+  src: url(../fonts/BrandonGrotesque-Light.ttf);
+}
+@font-face {
+  font-family: BrandonMedium;
+  src: url(../fonts/BrandonGrotesque-Medium.ttf);
+}
+/*font end*/
+*{
+	margin: 0;
+	padding:0;
+}
+/*header start*/
+header{
+	font-family: sans-serif;
+}
+/*slider start*/
+.slider{
+
+}
+.mine{
+	margin-bottom: 80px;
+}
+.mine p{
+	font-family:BrandonLight;
+	font-family: sans-serif;
+	font-size: 30px;
+	color: white; 
+}
+.mine h1{
+	font-family: BrandonGrotesqe-Bold;
+	font-family: sans-serif;
+	font-size: 70px;
+	margin-bottom: 60px;
+}
+.mine_btn{
+	border-color:white;
+	color: white;
+	padding: 15px 40px;
+}
+.mine_btn:hover{
+	background-color: #7690c5;
+	color:white;
+	border-color: #7690c5;
+}
+/*slider end*/
+/*nav start*/
+.menu_bar{
+	padding-top: 15px;
+}
+.menu ul li a{
+	font-family: BrandonMedium;
+	font-family: sans-serif;
+	font-size: 18px;
+	color: white !important;
+	transition: 0.3s;
+	padding: 0 15px !important;
+}
+.menu ul li:last-child a{
+	padding-right: 0 !important;
+}
+.menu ul li a:hover{
+	color:#7690c5 !important;
+}
+/*nav end*/
+/*identifies start*/
+.identifies{
+	margin: 100px 0;
+}
+.mine_bg{
+	background-color: #fafafa;
+	padding: 100px 0;
+}
+.common_headline{
+  	font-family: BrandonLight;
+  	font-family: sans-serif;
+	font-size: 50px;
+	color: #222222;
+}
+.common_bold{
+	font-family: BrandonGrotesqe-Bold;
+	font-family: sans-serif;
+	font-size: 50px;
+	color: #222222;
+}
+.common_pragraph{
+	color: #777777;
+}
+/*identifies end*/
+/*section start*/
+.black{
+	font-size: 30px;
+	width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    color: white;
+    background: black;
+    padding-top: 10px;
+}
+.common_heading h1{
+	font-size: 22px;
+	color: #222222;
+}
+.mine_con{
+	margin: 50px 0;
+}
+/*section end*/
+/*awesome client start*/
+.prosen{
+	margin-top: 50px;
+}
+.user_icon{
+	width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    color: white;
+    background: black;
+}
+.text_head{
+	font-size: 26px;
+	background: white;
+    padding: 35px 50px;
+}
+.mine_bl{
+	font-size: 20px;
+	color: #7690c5;
+}
+.prosen_btw{
+	margin-top: 80px;
+}
+/*awesome client end*/
+/*market place start*/
+.market_place{
+	padding: 40px 0;
+}
+.market_alt ul li a{
+	margin-right: 40px;
+}
+/*market place start*/
+/*amazing team start*/
+.team_part{
+	background-color: #111111;
+}
+.mine_color1{
+	color: white;
+}
+.mine_color{
+	color: #777777;
+}
+.team{
+	margin: 40px 0 25px 0;
+}
+.team_pic{
+	width: 150px;
+	height: 150px;
+	border: 2px solid white;
+	border-radius: 50%;
+}
+.team_head{
+	margin-top: 10px;
+}
+.font_com{
+	font-size: 16px;
+}
+.social_list ul li a i{
+	color: white;
+	width: 40px;
+	height: 40px;
+	border: 2px solid white;
+	border-radius: 50%;
+	padding: 10px 0;
+	transition: 0.3s;
+}
+.social_list ul li a i:hover{
+	color: #7690c5;
+	border-color: #7690c5;
+}
+/*amazing team end*/
+/*contact start*/
+.contact_part{
+	background-color: #7690c5;
+	color: white;
+}
+.mine_line{
+	font-size: 18px;
+	margin-bottom: 30px;
+}
+.mine_cotnact{
+	margin-top: 25px;
+}
+.contact{
+	margin-left: 15px;
+}
+.mine_form{
+	margin-bottom: 25px;
+}
+.mine_inpot{
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+.mine_are{
+	padding-bottom: 125px;
+}
+.mine_send{
+    padding: 10px 20px;
+}
+/*contact end*/
+/*footer start*/
+.footer{
+	margin-top: 100px;
+}
+.line{
+	border-color: white;
+}
